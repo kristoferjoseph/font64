@@ -7,5 +7,5 @@ Install
 
 Usage
 -----
-`allyourbase64 | font64 > output.css`
+`allyourbase64 ./path-to-font.otf | font64 > output.css`
 
