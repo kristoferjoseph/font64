@@ -1,0 +1,28 @@
+{
+  "name": "font64",
+  "version": "1.0.0",
+  "description": "Poops out a base64 encoded @font-face selector for modern browsers.",
+  "main": "index.js",
+  "bin": {
+    "font64": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristoferjoseph/font64.git"
+  },
+  "keywords": [
+    "base64",
+    "font",
+    "@font-face",
+    "css"
+  ],
+  "author": "@dam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kristoferjoseph/font64/issues"
+  },
+  "homepage": "https://github.com/kristoferjoseph/font64#readme"
+}
